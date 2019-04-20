@@ -11,7 +11,7 @@ import GameplayKit
 
 class GameScene: SKScene {
     
-    //tidy this up!ß
+    //Pushing to GitHub
     
     var player : Player!
     var baseFloor = SKSpriteNode()
